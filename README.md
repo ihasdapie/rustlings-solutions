@@ -2,24 +2,24 @@ Here's Brian's solutions to rust-lang's [rustlings](https://github.com/rust-lang
 
 COMPLETE/INCOMPLETE: 
 
-- [] clippy
-- [] generics
+- [ ] clippy
+- [ ] generics
 - [x] option
 - [x] tests
-- [] conversions
+- [ ] conversions
 - [x] if
 - [x] primitive_types
-- [] threads
+- [ ] threads
 - [x] enums
 - [x] macros
-- [] standard_library_types
-- [] traits
+- [ ] standard_library_types
+- [ ] traits
 - [x] error_handling
 - [x] modules
-- [] strings
+- [ ] strings
 - [x] variables
 - [x] functions
-- [] move_semantics
+- [ ] move_semantics
 - [x] structs
 - [x] quiz1.rs
 - [x] quiz2.rs
