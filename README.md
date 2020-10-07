@@ -1,4 +1,4 @@
-Here's Brian's solutions to rust-lang's [rustlings](https://github.com/rust-lang/rustlings) exercise set for getting to know rust.
+Solutions to rust-lang's [rustlings](https://github.com/rust-lang/rustlings) exercise set for getting to know rust.
 
 COMPLETE/INCOMPLETE: 
 
